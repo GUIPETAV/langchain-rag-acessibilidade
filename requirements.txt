@@ -1,0 +1,7 @@
+langchain>=1.0
+langchain-community
+langchain-text-splitters
+rank_bm25
+scikit-learn
+pytest
+# opcional, para respostas com LLM: langchain-openai
